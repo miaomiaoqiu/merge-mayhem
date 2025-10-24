@@ -1,2 +1,1 @@
-print("Hi from Avril and Sridhar and Irene!")
-
+print("Hi from Avril, Sridhar, and Irene – fixed and merged successfully!")
